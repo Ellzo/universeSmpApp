@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/ems">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/main_heading"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22sp"
+        android:layout_gravity="center_horizontal"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/ButtonSun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="14dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginRight="14dp"
+        android:background="@color/primButtonBack"
+        android:gravity="center"
+        android:text="@string/article_name3"
+        android:typeface="sans"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:onClick="callSun"/>
+    <Button
+        android:id="@+id/ButtonEarth"
+        android:onClick="callEarth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="14dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="14dp"
+        android:background="@color/primButtonBack"
+        android:gravity="center"
+        android:typeface="sans"
+        android:text="@string/article_name2"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary" />
+    <Button
+        android:id="@+id/ButtonMoon"
+        android:onClick="callMoon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="14dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="7dp"
+        android:typeface="sans"
+        android:layout_marginRight="14dp"
+        android:background="@color/primButtonBack"
+        android:gravity="center"
+        android:text="@string/article_name1"
+        android:textSize="18sp"
+    android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/credits"
+        android:layout_marginEnd="14dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="14dp"
+        android:textSize="8sp"
+        android:gravity="center"
+        android:textColor="#f0f0f0"/>
+</LinearLayout>

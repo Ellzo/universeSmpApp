@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="article_name1">MOON</string>
+    <string name="moonMessage">This is a Toast from MOON !!!</string>
+    <string name="moon">
+        The Moon is an astronomical body that orbits planet Earth and is Earth\'s only permanent natural satellite. It is the fifth-largest natural satellite in the Solar System, and the largest among planetary satellites relative to the size of the planet that it orbits (its primary). The Moon is after Jupiter\'s satellite Io the second-densest satellite in the Solar System among those whose densities are known.
+
+\n      The Moon is thought to have formed about 4.51 billion years ago, not long after Earth. The most widely accepted explanation is that the Moon formed from the debris left over after a giant impact between Earth and a Mars-sized body called Theia.
+
+\n      The Moon is in synchronous rotation with Earth, and thus always shows the same side to Earth, the near side. The near side is marked by dark volcanic maria that fill the spaces between the bright ancient crustal highlands and the prominent impact craters. After the Sun, the Moon is the second-brightest regularly visible celestial object in Earth\'s sky. Its surface is actually dark, although compared to the night sky it appears very bright, with a reflectance just slightly higher than that of worn asphalt. Its gravitational influence produces the ocean tides, body tides, and the slight lengthening of the day.
+
+\n      The Moon\'s average orbital distance is 384,402 km (238,856 mi), or 1.28 light-seconds. This is about thirty times the diameter of Earth. The Moon\'s apparent size in the sky is almost the same as that of the Sun, since the star is about 400 times the lunar distance and diameter. Therefore, the Moon covers the Sun nearly precisely during a total solar eclipse. This matching of apparent visual size will not continue in the far future because the Moon\'s distance from Earth is gradually increasing.
+
+\n      The Moon was first reached in September 1959 by the Soviet Union\'s Luna 2, an unmanned spacecraft. The United States\' NASA Apollo program achieved the only manned lunar missions to date, beginning with the first manned orbital mission by Apollo 8 in 1968, and six manned landings between 1969 and 1972, with the first being Apollo 11. These missions returned lunar rocks which have been used to develop a geological understanding of the Moon\'s origin, internal structure, and the Moon\'s later history. Since the Apollo 17 mission in 1972, the Moon has been visited only by unmanned spacecraft.
+
+\n      Both the Moon\'s natural prominence in the earthly sky and its regular cycle of phases as seen from Earth have provided cultural references and influences for human societies and cultures since time immemorial. Such cultural influences can be found in language, lunar calendar systems, art, and mythology.
+    </string>
+    <color name="moonBack">#323232</color>
+    <color name="moonClr">#f0f0f0</color>
+</resources>

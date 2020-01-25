@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreeTexts</string>
+    <string name="main_heading">Hello Universe !</string>
+    <string name="credits">This app was developed and designed by:\"ZOUAK OMAR FAROUK\"</string>
+</resources>
